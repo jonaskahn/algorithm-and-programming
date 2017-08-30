@@ -3,5 +3,9 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 Find the sum of all the multiples of 3 or 5 below 1000.
 
 # Key
-That's easy. 
-Yep, I know, but the matter is we'll do it by mathematics.
+That's easy. Yep, I know. But the matter is we'll do it by mathematics.
+
+Let's go
+* We need to find all of number that are multiples of 3 or 5 and lessthan 1000.
+  - 
+
